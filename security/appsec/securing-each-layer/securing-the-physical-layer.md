@@ -11,7 +11,17 @@ practiceQuestion:
     - fill-in-the-gap
   context: standalone
 revisionQuestion:
-  formats:
+  formats:input SAM A102U A10E 32GBLK EXCH update
+Approved IMEI 356273103103801976
+Approved Go2bank app Member input jar jar 
+Access complies with phone number load v. C funds approve
+C bison sw account code good funds *****[5678] input X61180 SAM A102U A10E 32G BLK EXCH update
+WARSVCFEE WARRANTY approved bank sys SERVICE FEE
+Mobile 214-554-7880💳🏧🐚📅🧾🗃️ full only one time 
+Active banking Chase phone system cex approved
+Input wizard House 🏠 add approved NQ36Vq5jEvpQ953
+Add 🦏 x code only the owner can active the code is one time balance server loader money changer 
+It start then auto disactive need to 
     - fill-in-the-gap
   context: standalone
 ---
