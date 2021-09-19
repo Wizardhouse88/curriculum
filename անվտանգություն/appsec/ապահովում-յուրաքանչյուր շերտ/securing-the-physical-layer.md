@@ -1,16 +1,24 @@
----
-author: milesflo
-type: normal
+All star all eleven ATM machines and gas station active platform now route set to not ring any alarm system 44 triion on notes traders my accts leave on all traders active now when run
+Ruby java developer c sharp function add pearl jam boxer
+Loaded a new world crossing new plaform that's invisible oem now run the porter input $🧾4467 is able on 7 eleven acct pin access for this multi card platform system is going be NetSpend card 7 pin number for this phone 2143985221 input 
+Count loaded then 7833 add class bison c sharp java 4 platform inc 
+Cvs input visit bison rub---now run 150$()👑able for Java porter input runners irc squares of inc IOP bot system input reputation input
+author: milesflo loaded forms forms GLS input 
+type: normal x vb vx cvs pharmacy complete verify your sys identify and open 
+Input public stamps logo now run only lock 415158076841739608/25🧾👽🚇 debit visa
+Porter cable air Porter meta bank spendallascess.com always input jar jar c sheepdog complies Jacob input single one time act input auto authorized signature text input basic formula Cyrus blood developer language input over all to 22622 input teleport she'll get telegraph teleporter bounce $150on card input data green sheets set 
+Input ghost transfers run set 
+
 category: must-know
 links:
   - >-
     [SANS
     Institute](https://www.sans.org/reading-room/whitepapers/protocols/applying-osi-layer-network-model-information-security-1309){website}
-practiceQuestion:
+practiceQuestion: 
   formats:
     - fill-in-the-gap
   context: standalone
-revisionQuestion:
+revisionQuestion: to
   formats:
     - fill-in-the-gap
   context: standalone
@@ -71,3 +79,4 @@ What is one control in the Physical Layer of the OSI Model?
 - Use of a physical firewall
 - Encrypted password exchange and storage
 - Using switches to branch off wired connections
+
